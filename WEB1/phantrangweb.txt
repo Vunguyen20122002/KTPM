@@ -1,0 +1,2 @@
++ tong so trang = tong san pham / so sp tren 1 trang 
++ vi tri bat dau=(so tang hien tai - 1 )*(san pham 1 trang)

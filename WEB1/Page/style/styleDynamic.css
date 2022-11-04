@@ -1,0 +1,20 @@
+#header .menubar li:hover{
+    background-color: transparent;
+    border-bottom: 2px solid #e8604c;
+}
+#header .menubar li:hover a{
+    font-family: sans-serif;
+}
+#header .search:hover, #header .user a:hover, #header .cart:hover{
+    color: #e8604c;
+}
+/*  */
+#container .btn .ti-angle-left:hover, 
+#container .btn .ti-angle-right:hover{
+    background-color: black;
+}
+#container .secondSlide img:hover{
+    transform: scale(1.2);
+    border-radius: 10px;
+    transition: all 3s ease-in-out;
+}
